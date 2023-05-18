@@ -1,0 +1,25 @@
+* {
+	margin: 0;
+	padding: 0;	
+	box-sizing: border-box;
+
+}
+html, body {
+
+	min-height: 100%;
+}
+.main{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.label{
+	color: #fff;
+}
+.center{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}

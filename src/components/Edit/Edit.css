@@ -1,0 +1,25 @@
+.color-white{
+    color: #ffffffdb;
+}
+.label{
+	color: #fff;
+    padding-right: 10px;
+}
+.countainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.input{
+    
+    width: 100%;
+    box-sizing: border-box;
+
+}
+.color-white:hover{
+    color: #ffffff;
+}
+.white{
+    color:#ffffff
+}
